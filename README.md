@@ -1,3 +1,3 @@
 # zuriCarouselTask
 
-https://github.com/freedomosato/zuriCarouselTask
+https://freedomosato.github.io/zuriCarouselTask/
